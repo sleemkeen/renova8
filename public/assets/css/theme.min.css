@@ -21,7 +21,7 @@
     --warning: #ff9500;
     --danger: #ff3b30;
     --light: #ced4da;
-    --dark: #05172a;
+    --dark: #004279;
     --white: #fff;
     --darker: #020b13;
     --breakpoint-xs: 0;
@@ -2583,8 +2583,8 @@ fieldset:disabled a.btn {
 
 .btn-dark {
     color: #fff;
-    border-color: #05172a;
-    background-color: #05172a;
+    border-color: #004279;
+    background-color: #004279;
     box-shadow: none
 }
 
@@ -2602,8 +2602,8 @@ fieldset:disabled a.btn {
 .btn-dark.disabled,
 .btn-dark:disabled {
     color: #fff;
-    border-color: #05172a;
-    background-color: #05172a
+    border-color: #004279;
+    background-color: #004279
 }
 
 .btn-dark:not(:disabled):not(.disabled).active,
@@ -2965,16 +2965,16 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-dark {
-    color: #05172a;
-    border-color: #05172a;
+    color: #004279;
+    border-color: #004279;
     background-color: transparent;
     background-image: none
 }
 
 .btn-outline-dark:hover {
     color: #fff;
-    border-color: #05172a;
-    background-color: #05172a
+    border-color: #004279;
+    background-color: #004279
 }
 
 .btn-outline-dark.focus,
@@ -2984,7 +2984,7 @@ fieldset:disabled a.btn {
 
 .btn-outline-dark.disabled,
 .btn-outline-dark:disabled {
-    color: #05172a;
+    color: #004279;
     background-color: transparent
 }
 
@@ -2992,8 +2992,8 @@ fieldset:disabled a.btn {
 .btn-outline-dark:not(:disabled):not(.disabled):active,
 .show>.btn-outline-dark.dropdown-toggle {
     color: #fff;
-    border-color: #05172a;
-    background-color: #05172a
+    border-color: #004279;
+    background-color: #004279
 }
 
 .btn-outline-dark:not(:disabled):not(.disabled).active:focus,
@@ -6399,7 +6399,7 @@ button.bg-light:hover {
 }
 
 .bg-dark {
-    background-color: #05172a!important
+    background-color: #004279!important
 }
 
 a.bg-dark:focus,
@@ -6508,7 +6508,7 @@ button.bg-darker:hover {
 }
 
 .border-dark {
-    border-color: #05172a!important
+    border-color: #004279!important
 }
 
 .border-white {
@@ -9823,7 +9823,7 @@ a.text-light:hover {
 }
 
 .text-dark {
-    color: #05172a!important
+    color: #004279!important
 }
 
 a.text-dark:focus,
@@ -10402,7 +10402,7 @@ button.bg-lighter:hover {
 }
 
 .bg-gradient-dark {
-    background: linear-gradient(80deg, #05172a 0, #051e2a 100%)!important
+    background: linear-gradient(80deg, #004279 0, #051e2a 100%)!important
 }
 
 .bg-gradient-white {
@@ -10426,7 +10426,7 @@ button.bg-lighter:hover {
 }
 
 .bg-section-dark {
-    background-color: #05172a!important
+    background-color: #004279!important
 }
 
 .bg-section-darker {
@@ -10950,7 +10950,7 @@ button.bg-lighter:hover {
 
 [data-separator-bg=dark]:after,
 [data-separator-bg=dark]:before {
-    background: #05172a
+    background: #004279
 }
 
 [data-separator-bg=darker]:after,
@@ -11922,7 +11922,7 @@ button.bg-lighter:hover {
 }
 
 .breadcrumb-light .breadcrumb-item a:hover {
-    color: #05172a
+    color: #004279
 }
 
 .breadcrumb-light .breadcrumb-item+.breadcrumb-item::before {
@@ -13830,7 +13830,7 @@ textarea[resize=horizontal] {
 .frame-browser {
     position: relative;
     border-radius: .375rem;
-    background-color: #05172a;
+    background-color: #004279;
     in-height: 300px;
     will-change: height
 }
@@ -14555,7 +14555,7 @@ textarea[resize=horizontal] {
 
 .modal-dark .modal-content {
     color: #fff;
-    background-color: #05172a
+    background-color: #004279
 }
 
 .modal-dark .modal-content .heading {
@@ -15295,12 +15295,12 @@ textarea[resize=horizontal] {
 }
 
 .popover-dark {
-    background-color: #05172a
+    background-color: #004279
 }
 
 .popover-dark .popover-header {
     color: #fff;
-    background-color: #05172a
+    background-color: #004279
 }
 
 .popover-dark .popover-body {
@@ -15313,22 +15313,22 @@ textarea[resize=horizontal] {
 
 .popover-dark.bs-popover-auto[x-placement^=top] .arrow::after,
 .popover-dark.bs-popover-top .arrow::after {
-    border-top-color: #05172a
+    border-top-color: #004279
 }
 
 .popover-dark.bs-popover-auto[x-placement^=right] .arrow::after,
 .popover-dark.bs-popover-right .arrow::after {
-    border-right-color: #05172a
+    border-right-color: #004279
 }
 
 .popover-dark.bs-popover-auto[x-placement^=bottom] .arrow::after,
 .popover-dark.bs-popover-bottom .arrow::after {
-    border-bottom-color: #05172a
+    border-bottom-color: #004279
 }
 
 .popover-dark.bs-popover-auto[x-placement^=left] .arrow::after,
 .popover-dark.bs-popover-left .arrow::after {
-    border-left-color: #05172a
+    border-left-color: #004279
 }
 
 .popover-white {
@@ -16152,7 +16152,7 @@ tr.table-divider {
         border-color: #ced4da
     }
     [data-timeline-axis-color=dark]:before {
-        border-color: #05172a
+        border-color: #004279
     }
     [data-timeline-axis-color=white]:before {
         border-color: #fff
@@ -16240,7 +16240,7 @@ tr.table-divider {
 
 .tongue-dark {
     color: #fff;
-    background-image: url('data:image/svg+xml;charset=utf8,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' width=\'138\' height=\'35\' viewBox=\'0 0 138 35\'%3E%3Cpath fill=\'%2305172a\' d=\'M 3.15027 34.4375C 1.74207 34.6025 0.68396 34.7266 0 35L 68.9982 35C 68.9982 35 68.9998 28.6387 69 19.5132C 69 20.7261 69.0001 21.8892 69.0001 22.9956L 69.0018 35L 138 35C 137.316 34.7266 136.258 34.6025 134.85 34.4375C 131.11 33.9995 124.903 33.2729 116.678 28.6875C 111.015 25.3901 106.523 20.9771 102.07 16.6025C 93.5474 8.23096 85.1685 -1.97984e-15 69.0018 3.55056e-31C 69.0006 5.271 69 10.4292 69 15.0952C 69 10.4287 68.9994 5.27148 68.9982 3.55056e-31C 52.8314 1.97986e-15 44.4526 8.23096 35.9302 16.6025C 31.4772 20.9771 26.985 25.3901 21.3221 28.6875C 13.0974 33.2729 6.88965 33.9995 3.15027 34.4375Z\'/%3E%3C/svg%3E')
+    background-image: url('data:image/svg+xml;charset=utf8,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' width=\'138\' height=\'35\' viewBox=\'0 0 138 35\'%3E%3Cpath fill=\'%23004279\' d=\'M 3.15027 34.4375C 1.74207 34.6025 0.68396 34.7266 0 35L 68.9982 35C 68.9982 35 68.9998 28.6387 69 19.5132C 69 20.7261 69.0001 21.8892 69.0001 22.9956L 69.0018 35L 138 35C 137.316 34.7266 136.258 34.6025 134.85 34.4375C 131.11 33.9995 124.903 33.2729 116.678 28.6875C 111.015 25.3901 106.523 20.9771 102.07 16.6025C 93.5474 8.23096 85.1685 -1.97984e-15 69.0018 3.55056e-31C 69.0006 5.271 69 10.4292 69 15.0952C 69 10.4287 68.9994 5.27148 68.9982 3.55056e-31C 52.8314 1.97986e-15 44.4526 8.23096 35.9302 16.6025C 31.4772 20.9771 26.985 25.3901 21.3221 28.6875C 13.0974 33.2729 6.88965 33.9995 3.15027 34.4375Z\'/%3E%3C/svg%3E')
 }
 
 .tongue-white {
@@ -16383,11 +16383,11 @@ h6 {
 }
 
 .link-underline-dark {
-    border-bottom-color: #05172a
+    border-bottom-color: #004279
 }
 
 .link-underline-dark:hover {
-    color: #05172a
+    color: #004279
 }
 
 .link-underline-white {

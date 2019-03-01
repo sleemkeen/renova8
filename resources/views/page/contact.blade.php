@@ -29,25 +29,7 @@
         <section class="slice slice-lg pt-lg-5">
             <div class="container">
                 <div class="row row-grid mt--200">
-                    <div class="col-lg-6">
-                        <div class="card bg-dark opacity-container text-white overflow-hidden shadow border-0">
-                            <a href="#" data-fancybox data-type="iframe" data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.565017836055!2d-122.41879278507707!3d37.77679637975909!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085809c6c8f4459%3A0xb10ed6d9b5050fa5!2sTwitter+HQ!5e0!3m2!1sen!2sro!4v1524131359924">
-                                <div class="card-img-bg" style="background-image: url('../assets/img/prv/city-1.jpg');"></div>
-                                <span class="mask bg-gradient-primary opacity-9 opacity-8--hover"></span>
-                                <div class="card-body px-5 py-5">
-                                    <div style="min-height: 250px;">
-                                        <h2 class="h2 text-white font-weight-bold mb-4">San Francisco</h2>
-                                        <h5 class="text-white mt-4 mb-2">E: sanfrancisco@company.com</h5>
-                                        <h5 class="text-white">T: 0755.222.333</h5>
-                                    </div>
-                                    <span class="text-white text-uppercase font-weight-bold">
-                                See on map
-                                <i class="far fa-angle-right ml-2"></i>
-                            </span>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
+               
                     <div class="col-lg-6">
                         <div class="card bg-dark opacity-container text-white overflow-hidden shadow border-0">
                             <a href="#" data-fancybox data-type="iframe" data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3021.8888618501214!2d-73.97667638497174!3d40.7644690793262!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c258f07d5da561%3A0x61f6aa300ba8339d!2sThe+Plaza!5e0!3m2!1sen!2sro!4v1524131511734">
@@ -55,9 +37,9 @@
                                 <span class="mask bg-gradient-dark opacity-9 opacity-8--hover"></span>
                                 <div class="card-body px-5 py-5">
                                     <div style="min-height: 250px;">
-                                        <h2 class="h2 text-white font-weight-bold mb-4">New York</h2>
-                                        <h5 class="text-white mt-4 mb-2">E: newyork@company.com</h5>
-                                        <h5 class="text-white">T: 0755.222.333</h5>
+                                        <h2 class="h2 text-white font-weight-bold mb-4">Lagos</h2>
+                                        <h5 class="text-white mt-4 mb-2">E: info@renova8.com</h5>
+                                        <h5 class="text-white">T: 09099889999</h5>
                                     </div>
                                     <span class="text-white text-uppercase font-weight-bold">
                                 See on map
@@ -95,10 +77,10 @@
                     </div>
 
                     <div class="col-lg-5 ml-lg-auto">
-                        <h3>150 Southeast Pidgeon Meadow<br>Claflin Terrace, 305458</h3>
-                        <p class="lead my-4">E: <a href="#">support@webpixels.io</a>
-                            <br>T: 0755.222.333</p>
-                        <p>Purpose is a complete responsive HTML5 Template based on Bootstrap 4 made for Agency, Startup, Business, Finance, Consulting, Real Estate, Recruitment, Travel website and not only.</p>
+                        <h3>150 Huges Avenue<br>Yaba Lagos, Nigeria</h3>
+                        <p class="lead my-4">E: <a href="#">info@renova8.com</a>
+                            <br>T: 09088998888</p>
+                        <p>We’re really proud of the quality work our team delivers. Browse this gallery to explore some of the jobs we’ve completed recently. We’re sure you’ll notice the great finishes and maybe even find a little inspiration for your own project.</p>
                     </div>
                 </div>
             </div>

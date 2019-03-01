@@ -71,7 +71,7 @@
                 </button>
 
                 <div class="collapse navbar-collapse" id="navbar-main-collapse">
-                    <ul class="navbar-nav align-items-lg-center">
+                    <ul class="navbar-nav align-items-lg-center mx-auto">
                         <li class="nav-item active">
                             <a class="nav-link" href="{{url('/')}}">Home</a>
                         </li>
@@ -120,10 +120,10 @@
                                     </a>
                                 </div>
                             </div>
-                        </li>
+                        <!-- </li>
                            <li class="nav-item">
                             <a class="nav-link" href="{{url('product')}}" role="button">Products</a>
-                        </li>
+                        </li> -->
                            <li class="nav-item">
                             <a class="nav-link" href="{{url('portfolio')}}" role="button">Portfolio</a>
                         </li>

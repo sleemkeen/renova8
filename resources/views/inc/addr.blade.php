@@ -9,8 +9,11 @@
                                         <i class="fas fa-file-alt text-white"></i>
                                     </div>
                                     <div class="icon-text">
-                                        <h3 class="text-white h4">70+ example pages</h3>
-                                        <p class="text-white mb-0">We took a step further and created a set of 70+ pages for a variety of purposes that makes it the ideal point to start building websites of any kind.</p>
+                                        <h3 class="text-white h4">Address</h3>
+                                        <p class="text-white mb-0">Plot 12, hughes avenue sabo yaba</p>
+                                        <p class="text-white mb-0">07008989998</p>
+                                        <p class="text-white mb-0">info@renovate.com</p>
+
                                     </div>
                                 </div>
                             </div>
@@ -20,12 +23,11 @@
                         <div class="card bg-gradient-secondary shadow shadow-lg--hover border-0 position-relative zindex-100">
                             <div class="card-body py-5">
                                 <div class="d-flex align-items-start">
-                                    <div class="icon text-primary">
-                                        <i class="fas fa-question-circle"></i>
-                                    </div>
+                                   
                                     <div class="icon-text">
-                                        <h3 class="h4">6 months technical support</h3>
-                                        <p class="mb-0">Use our dedicated support email to send your issues or suggestions. We are here to help anytime: <strong class="text-dark">support@webpixels.io</strong>
+                                        <h3 class="h4">Get Your Quotation</h3>
+                                        <p class="mb-0">At Renova8, we have created a suitable pricing structure that accommodates everyone’s budget without hampering our standards and quality. 
+                                            <a href="#"> <strong class="text-dark">Get quotation</strong></a>
                                         </p>
                                     </div>
                                 </div>

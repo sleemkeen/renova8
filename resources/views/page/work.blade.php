@@ -5,11 +5,6 @@
  <main>
 
 
-
-
-
-
-
         <!-- Spotlight -->
         <section class="sice slice-lg bg-gradient-primary pb-100">
             <div class="container">

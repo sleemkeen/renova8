@@ -35,7 +35,7 @@
 </div>
 </section>
 
-<section id="sct_page_examples" class="">
+<section id="sct_page_examples" class="pb-lg-lg">
     <div class="container">
 
      <span class="d-block mb-5"><strong class="font-weight-light"><h2>SERVICES</h2></strong></span>

@@ -63,7 +63,7 @@
         <nav class="navbar navbar-main navbar-expand-lg navbar-sticky navbar-transparent navbar-dark bg-dark" id="navbar-main">
             <div class="container">
                 <a class="navbar-brand mr-lg-5" href="{{url('/')}}">
-                    <img alt="Image placeholder" src="assets/img/brand/white.png" style="height: 75px;">
+                    <img alt="Image placeholder" src="{{asset('assets/img/brand/white.png')}}" style="height: 75px;">
                 </a>
 
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-main-collapse" aria-controls="navbar-main-collapse" aria-expanded="false" aria-label="Toggle navigation">
@@ -82,36 +82,36 @@
                             <a class="nav-link" href="{{url('services')}}" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Services</a>
                             <div class="dropdown-menu dropdown-menu-lg dropdown-menu-arrow py-0">
                                 <div class="list-group">
-                                    <a href="#" class="list-group-item list-group-item-action">
+                                    <a href="{{url('services/commercial')}}" class="list-group-item list-group-item-action">
                                         <div class="media d-flex align-items-center">
-                                            <img alt="Image placeholder" src="assets/img/icons/dusk/svg/browser-window.svg" class="img-saturate" style="width: 50px;">
+                                            <img alt="Image placeholder" src="{{asset('assets/img/icons/dusk/svg/browser-window.svg')}}" class="img-saturate" style="width: 50px;">
                                             <div class="media-body ml-3">
                                                 <h6 class="mb-1">Commercial Renovation</h6>
-                                                <p class="mb-0">A great point to start from.</p>
+                                                <p class="mb-0">Our commercial renovation services cover interior and exterior.</p>
                                             </div>
                                         </div>
                                     </a>
-                                    <a href="#" class="list-group-item list-group-item-action">
+                                    <a href="{{url('services/residential')}}" class="list-group-item list-group-item-action">
                                         <div class="media d-flex align-items-center">
-                                            <img alt="Image placeholder" src="assets/img/icons/dusk/svg/ios-photos.svg" class="img-saturate" style="width: 50px;">
+                                            <img alt="Image placeholder" src="{{asset('assets/img/icons/dusk/svg/ios-photos.svg')}}" class="img-saturate" style="width: 50px;">
                                             <div class="media-body ml-3">
                                                 <h6 class="mb-1">Residential Renovation</h6>
-                                                <p class="mb-0">Build your website with these demos.</p>
+                                                <p class="mb-0">We re-design, refashion your decor.</p>
                                             </div>
                                         </div>
                                     </a>
-                                    <a href="#" class="list-group-item list-group-item-action">
+                                    <a href="{{url('services/architecture')}}" class="list-group-item list-group-item-action">
                                         <div class="media d-flex align-items-center">
-                                            <img alt="Image placeholder" src="assets/img/icons/dusk/svg/maintenance.svg" class="img-saturate" style="width: 50px;">
+                                            <img alt="Image placeholder" src="{{asset('assets/img/icons/dusk/svg/maintenance.svg')}}" class="img-saturate" style="width: 50px;">
                                             <div class="media-body ml-3">
                                                 <h6 class="mb-1">Architectural Designs</h6>
-                                                <p class="mb-0">Account management made easy.</p>
+                                                <p class="mb-0">minimally infuse interiors with ethnicity.</p>
                                             </div>
                                         </div>
                                     </a>
-                                    <a href="#" class="list-group-item list-group-item-action">
+                                    <a href="{{url('services/projectmanagement')}}" class="list-group-item list-group-item-action">
                                         <div class="media d-flex align-items-center">
-                                            <img alt="Image placeholder" src="assets/img/icons/dusk/svg/in-progress.svg" class="img-saturate" style="width: 50px;">
+                                            <img alt="Image placeholder" src="{{asset('assets/img/icons/dusk/svg/in-progress.svg')}}" class="img-saturate" style="width: 50px;">
                                             <div class="media-body ml-3">
                                                 <h6 class="mb-1">Project Management &amp; Quality Assurance</h6>
                                                 <p class="mb-0">Explore the full ecommerce website flow.</p>

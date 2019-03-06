@@ -7,7 +7,7 @@
             <div class="row pt-md">
                 <div class="col-lg-4 mb-5 mb-lg-0">
                     <a href="/">
-                        <img src="assets/img/brand/white.png" alt="Footer logo" style="height: 70px;">
+                        <img src="{{asset('assets/img/brand/white.png')}}" alt="Footer logo" style="height: 70px;">
                     </a>
                     <p class="text-sm">RENOVA8 is a registered renovations &amp; design company, located in the heart of Yaba with a commitment to redefining the culture of property renovations and remodeling.</p>
                 </div>

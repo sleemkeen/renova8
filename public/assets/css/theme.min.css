@@ -6322,7 +6322,7 @@ button.close {
 }
 
 .bg-primary {
-    background-color: #510fa8!important
+    background-color: #3c9600!important
 }
 
 a.bg-primary:focus,
@@ -9760,7 +9760,7 @@ button.bg-darker:hover {
 }
 
 .text-primary {
-    color: #510fa8!important
+    color: #0c427b!important
 }
 
 a.text-primary:focus,
@@ -12616,7 +12616,7 @@ button.bg-lighter:hover {
 
 .card-pricing.popular {
     z-index: 1;
-    border: 3px solid #510fa8!important
+    border: 3px solid #3c9600!important
 }
 
 @media (min-width:768px) {

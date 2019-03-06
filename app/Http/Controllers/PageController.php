@@ -36,8 +36,20 @@ class PageController extends Controller
     	
     	return view('page.contact'); 
     }
-    public function services(){
+    public function commercial(){
     	
-    	return view('page.services'); 
+    	return view('page.commercial'); 
+    }
+    public function architecture(){
+        
+        return view('page.architectural'); 
+    }
+      public function projectmanagement(){
+        
+        return view('page.projectmanagement'); 
+    }
+      public function residential(){
+        
+        return view('page.recidential'); 
     }
 }

@@ -17,3 +17,11 @@ Route::get('/about', 'PageController@about')->name('about');
 Route::get('/product', 'PageController@product')->name('product');
 Route::get('/portfolio', 'PageController@portfolio')->name('portfolio');
 Route::get('/contact', 'PageController@contact')->name('contact');
+
+Route::group(['prefix'=>'services'],function ()
+{
+	Route::get('/commercial', 'PageController@commercial')->name('commercial');
+	Route::get('/residential', 'PageController@residential')->name('residential');
+	Route::get('/architecture', 'PageController@architecture')->name('architecture');
+	Route::get('/projectmanagement', 'PageController@projectmanagement')->name('projectmanagement');
+});

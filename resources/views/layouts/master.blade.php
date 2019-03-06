@@ -12,15 +12,15 @@
     <title>Renova8-{{ucfirst($routename)}}</title>
 
     <!-- Favicon -->
-    <link rel="icon" href="assets/img/brand/favicon.png" type="image/png">
+    <link rel="icon" href="{{asset('assets/img/brand/favicon.png')}}" type="image/png">
 
     <!-- Fonts -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito:300,400,600,700,800">
 
     <!-- Font Awesome 5 -->
-    <link rel="stylesheet" href="assets/vendor/%40fortawesome/fontawesome-pro/css/all.min.css">
+    <link rel="stylesheet" href="{{asset('assets/vendor/%40fortawesome/fontawesome-pro/css/all.min.css')}}">
     <!-- Page plugins -->
-    <link type="text/css" href="assets/vendor/highlight.js/styles/atom-one-dark.css" rel="stylesheet">
+    <link type="text/css" href="{{asset('assets/vendor/highlight.js/styles/atom-one-dark.css')}}" rel="stylesheet">
 
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
@@ -30,7 +30,7 @@
 
 
     <!-- Theme CSS -->
-    <link rel="stylesheet" href="assets/css/theme.min.css">
+    <link rel="stylesheet" href="{{asset('assets/css/theme.min.css')}}">
 
 
 </head>
@@ -39,17 +39,17 @@
 
 <body>
 
-    <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
-    <script src="assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/vendor/in-view/dist/in-view.min.js"></script>
+    <script src="{{asset('assets/vendor/jquery/dist/jquery.min.js')}}"></script>
+    <script src="{{asset('assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js')}}"></script>
+    <script src="{{asset('assets/vendor/in-view/dist/in-view.min.js')}}"></script>
     <!-- Page plugins -->
-    <script src="assets/vendor/highlight.js/lib/highlight.js"></script>
+    <script src="{{asset('assets/vendor/highlight.js/lib/highlight.js')}}"></script>
 
 
 
     <!-- Theme JS -->
 
-    <script src="assets/js/theme.min.js"></script>
+    <script src="{{asset('assets/js/theme.min.js')}}"></script>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
  

@@ -114,7 +114,7 @@
                                             <img alt="Image placeholder" src="{{asset('assets/img/svg/manage.svg')}}" class="img-saturate" style="width: 50px;">
                                             <div class="media-body ml-3">
                                                 <h6 class="mb-1">Project Management &amp; Quality Assurance</h6>
-                                                <p class="mb-0">Explore the full ecommerce website flow.</p>
+                                                <p class="mb-0">Project Management Done Right</p>
                                             </div>
                                         </div>
                                     </a>

@@ -84,7 +84,7 @@
                                 <div class="list-group">
                                     <a href="{{url('services/commercial')}}" class="list-group-item list-group-item-action">
                                         <div class="media d-flex align-items-center">
-                                            <img alt="Image placeholder" src="{{asset('assets/img/icons/dusk/svg/browser-window.svg')}}" class="img-saturate" style="width: 50px;">
+                                            <img alt="Image placeholder" src="{{asset('assets/img/svg/recci.svg')}}" class="img-saturate" style="width: 50px;">
                                             <div class="media-body ml-3">
                                                 <h6 class="mb-1">Commercial Renovation</h6>
                                                 <p class="mb-0">Our commercial renovation services cover interior and exterior.</p>
@@ -93,7 +93,7 @@
                                     </a>
                                     <a href="{{url('services/residential')}}" class="list-group-item list-group-item-action">
                                         <div class="media d-flex align-items-center">
-                                            <img alt="Image placeholder" src="{{asset('assets/img/icons/dusk/svg/ios-photos.svg')}}" class="img-saturate" style="width: 50px;">
+                                            <img alt="Image placeholder" src="{{asset('assets/img/svg/comb.svg')}}" class="img-saturate" style="width: 50px;">
                                             <div class="media-body ml-3">
                                                 <h6 class="mb-1">Residential Renovation</h6>
                                                 <p class="mb-0">We re-design, refashion your decor.</p>
@@ -102,7 +102,7 @@
                                     </a>
                                     <a href="{{url('services/architecture')}}" class="list-group-item list-group-item-action">
                                         <div class="media d-flex align-items-center">
-                                            <img alt="Image placeholder" src="{{asset('assets/img/icons/dusk/svg/maintenance.svg')}}" class="img-saturate" style="width: 50px;">
+                                            <img alt="Image placeholder" src="{{asset('assets/img/svg/plan.svg')}}" class="img-saturate" style="width: 50px;">
                                             <div class="media-body ml-3">
                                                 <h6 class="mb-1">Architectural Designs</h6>
                                                 <p class="mb-0">minimally infuse interiors with ethnicity.</p>
@@ -111,7 +111,7 @@
                                     </a>
                                     <a href="{{url('services/projectmanagement')}}" class="list-group-item list-group-item-action">
                                         <div class="media d-flex align-items-center">
-                                            <img alt="Image placeholder" src="{{asset('assets/img/icons/dusk/svg/in-progress.svg')}}" class="img-saturate" style="width: 50px;">
+                                            <img alt="Image placeholder" src="{{asset('assets/img/svg/manage.svg')}}" class="img-saturate" style="width: 50px;">
                                             <div class="media-body ml-3">
                                                 <h6 class="mb-1">Project Management &amp; Quality Assurance</h6>
                                                 <p class="mb-0">Explore the full ecommerce website flow.</p>

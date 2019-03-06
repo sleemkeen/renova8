@@ -19,7 +19,7 @@
 			</div>
 			<div class="col-lg-5">
 				<div class="d-none d-lg-block">
-					<img alt="Image placeholder" src="{{asset('Services-Icons-HR-Kitchen.png')}}" class="img-fluid" style="animation: floating 3s ease infinite">
+					<img alt="Image placeholder" src="{{asset('Services-Icons-HR-Whole-House.png')}}" class="img-fluid" style="animation: floating 3s ease infinite">
 				</div>
 			</div>
 		</div>
@@ -34,7 +34,7 @@
 				<div class="mb-lg">
 					<div class="row">
 						<div class="col-md-3">
-							<img alt="Image placeholder" src="{{asset('customdesign.png')}}" class="img-fluid">
+							<img alt="Image placeholder" src="{{asset('renovation.jpg')}}" class="img-fluid">
 						</div>
 						<div class="col-md-9">
 							<h2 class="h2 mb-4">COMPLETE RENOVATION PROJECTS</h2>
@@ -51,7 +51,7 @@
 							<p class="mt-3">Whether your package is Good, Better or Best, we can take care of sourcing and installing cost-effective and energy-efficient appliances and products in every kitchen we work on. This takes any pressure off you, ensuring everything works as it should and fits any new or existing cabinetry.</p>
 						</div>
 						<div class="col-md-3">
-							<img alt="Image placeholder" src="{{asset('customdesign.png')}}" class="img-fluid">
+							<img alt="Image placeholder" src="{{asset('03.png')}}" class="img-fluid">
 						</div>
 					</div>
 
@@ -59,7 +59,7 @@
 				<div class="mb-lg">
 					<div class="row">
 						<div class="col-md-3">
-							<img alt="Image placeholder" src="{{asset('customdesign.png')}}" class="img-fluid">
+							<img alt="Image placeholder" src="{{asset('02.png')}}" class="img-fluid">
 						</div>
 						<div class="col-md-9">
 							<h2 class="h2" style="text-transform: capitalize;">Cabinets, countertops, shelving and flooring (tile and wood finish) face-lifts</h2>
@@ -76,7 +76,7 @@
 							<p class="mt-3">Whether your package is Good, Better or Best, we can take care of sourcing and installing cost-effective and energy-efficient appliances and products in every kitchen we work on. This takes any pressure off you, ensuring everything works as it should and fits any new or existing cabinetry.</p>
 						</div>
 						<div class="col-md-3">
-							<img alt="Image placeholder" src="{{asset('customdesign.png')}}" class="img-fluid">
+							<img alt="Image placeholder" src="{{asset('01.png')}}" class="img-fluid">
 						</div>
 					</div>
 
@@ -84,7 +84,7 @@
 				<div class="mb-lg">
 					<div class="row">
 						<div class="col-md-3">
-							<img alt="Image placeholder" src="{{asset('customdesign.png')}}" class="img-fluid">
+							<img alt="Image placeholder" src="{{asset('04.png')}}" class="img-fluid">
 						</div>
 						<div class="col-md-9">
 							<h2 class="h2" style="text-transform: capitalize;">Electrical and mechanical installations</h2>

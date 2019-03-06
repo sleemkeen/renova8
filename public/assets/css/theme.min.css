@@ -13612,18 +13612,18 @@ footer {
 }
 
 .footer-dark {
-    color: #adb5bd;
+    color: #fff;
     background-color: #020b13
 }
 
 .footer-dark .heading {
-    color: #e9ecef
+    color: #fff
 }
 
 .footer-dark .footer-link,
 .footer-dark .list-unstyled li a,
 .footer-dark .nav .nav-item .nav-link {
-    color: #adb5bd
+    color: #fff
 }
 
 .footer-dark .footer-link:hover,
@@ -13637,11 +13637,11 @@ footer {
 }
 
 .form-control:focus::-ms-input-placeholder {
-    color: #adb5bd
+    color: #fff
 }
 
 .form-control:focus::placeholder {
-    color: #adb5bd
+    color: #fff
 }
 
 .form-control.border-0,

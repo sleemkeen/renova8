@@ -38,7 +38,7 @@
 						</div>
 						<div class="col-md-9">
 							<h2 class="h2 mb-4" style="text-transform: capitalize;">Living rooms</h2>
-							<p class="mt-3">From rental renovations to high-spec architectural homes, we design to fit any space and budget. Our range of packages let you choose the option that best suits your budget and lifestyle. And with access to a team of interior design professionals we know we can find a modern, cost-effective solution for you. </p>
+							<p class="mt-3">You deserve a kitchen you love, it&#39;s the heart of your home after all. With years of experience turning kitchens into modern, functional spaces we can revamp décor, freshen-up joinery or redesign your space entirely, all with appliances and fittings of your choice. With top line builders, Painters and Electricians all part of our team, it’s all taken care of. </p>
 						</div>
 					</div>
 
@@ -48,7 +48,9 @@
 
 						<div class="col-md-9">
 							<h2 class="h2" style="text-transform: capitalize;">Bathrooms</h2>
-							<p class="mt-3">Whether your package is Good, Better or Best, we can take care of sourcing and installing cost-effective and energy-efficient appliances and products in every kitchen we work on. This takes any pressure off you, ensuring everything works as it should and fits any new or existing cabinetry.</p>
+							<p class="mt-3">
+								You deserve a kitchen you love, it&#39;s the heart of your home after all. With years of experience turning kitchens into modern, functional spaces we can revamp décor, freshen-up joinery or redesign your space entirely, all with appliances and fittings of your choice. With top line builders, Painters and Electricians all part of our team, it’s all taken care of.
+							</p>
 						</div>
 						<div class="col-md-3">
 							<img alt="Image placeholder" src="{{asset('customdesign.png')}}" class="img-fluid">
@@ -63,7 +65,7 @@
 						</div>
 						<div class="col-md-9">
 							<h2 class="h2" style="text-transform: capitalize;">Kitchen</h2>
-							<p class="mt-3">Regardless of your budget, quality solutions are standard across every design we recommend. Our network of industry connections lets us supply products you may not have access to yourself and allows us to focus on smart kitchen fixtures and fittings that use your space effectively. </p>
+							<p class="mt-3">You deserve a kitchen you love, it&#39;s the heart of your home after all. With years of experience turning kitchens into modern, functional spaces we can revamp décor, freshen-up joinery or redesign your space entirely, all with appliances and fittings of your choice. With top line builders, Painters and Electricians all part of our team, it’s all taken care of. </p>
 						</div>
 					</div>
 
@@ -72,8 +74,8 @@
 					<div class="row">
 
 						<div class="col-md-9">
-							<h2 class="h2" style="text-transform: capitalize;">Patio covers (terraces)</h2>
-							<p class="mt-3">Whether your package is Good, Better or Best, we can take care of sourcing and installing cost-effective and energy-efficient appliances and products in every kitchen we work on. This takes any pressure off you, ensuring everything works as it should and fits any new or existing cabinetry.</p>
+							<h2 class="h2" style="text-transform: capitalize;">Whole house</h2>
+							<p class="mt-3">Become the talk of the street with an all year-round comfort and add value to your home with Whole House exterior painting, façade redesign and insulation. Whole building renovation is a big deal but we are with you at every step until the job is done. We have assembled the right team to ensure a seamless process.</p>
 						</div>
 						<div class="col-md-3">
 							<img alt="Image placeholder" src="{{asset('customdesign.png')}}" class="img-fluid">
@@ -81,18 +83,7 @@
 					</div>
 
 				</div>
-				<div class="mb-lg">
-					<div class="row">
-						<div class="col-md-3">
-							<img alt="Image placeholder" src="{{asset('customdesign.png')}}" class="img-fluid">
-						</div>
-						<div class="col-md-9">
-							<h2 class="h2" style="text-transform: capitalize;">Interior renovations</h2>
-							<p class="mt-3">Regardless of your budget, quality solutions are standard across every design we recommend. Our network of industry connections lets us supply products you may not have access to yourself and allows us to focus on smart kitchen fixtures and fittings that use your space effectively. </p>
-						</div>
-					</div>
-
-				</div>
+			
 				
 
 			</div>

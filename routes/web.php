@@ -17,6 +17,7 @@ Route::get('/about', 'PageController@about')->name('about');
 Route::get('/product', 'PageController@product')->name('product');
 Route::get('/portfolio', 'PageController@portfolio')->name('portfolio');
 Route::get('/contact', 'PageController@contact')->name('contact');
+Route::get('/startaproject', 'PageController@startaproject')->name('startaproject');
 
 Route::group(['prefix'=>'services'],function ()
 {

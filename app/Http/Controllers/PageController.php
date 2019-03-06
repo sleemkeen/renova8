@@ -52,4 +52,8 @@ class PageController extends Controller
         
         return view('page.recidential'); 
     }
+    public function startaproject(){
+
+        return view('page.startaproject');
+    }
 }

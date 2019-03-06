@@ -60,7 +60,7 @@
         <!-- Main navbar -->
 
   @php $routename = Route::currentRouteName(); @endphp
-        <nav class="navbar navbar-main navbar-expand-lg navbar-sticky navbar-transparent navbar-dark bg-dark" id="navbar-main">
+        <nav class="navbar navbar-main navbar-expand-lg navbar-sticky navbar-transparent navbar-dark bg-dark" id="navbar-main" @if($routename == 'startaproject') style="background-color: #205c00 !important" @endif>
             <div class="container">
                 <a class="navbar-brand mr-lg-5" href="{{url('/')}}">
                     <img alt="Image placeholder" src="{{asset('assets/img/brand/white.png')}}" style="height: 75px;">
@@ -136,8 +136,8 @@
                     <ul class="navbar-nav align-items-lg-center ml-lg-auto">
                       
                         <li class="nav-item mr-0">
-                            <a href="#" target="_blank" class="nav-link d-lg-none">Price Your Renovation</a>
-                            <a href="#" target="_blank" class="btn btn-sm btn-white btn-circle btn-icon d-none d-lg-inline-flex">
+                            <a href="{{url('startaproject')}}" class="nav-link d-lg-none">Price Your Renovation</a>
+                            <a href="{{url('startaproject')}}" class="btn btn-sm btn-white btn-circle btn-icon d-none d-lg-inline-flex">
                                 <span class="btn-inner--icon"><i class="far fa-shopping-cart"></i></span>
                                 <span class="btn-inner--text">Price Your Renovation</span>
                             </a>

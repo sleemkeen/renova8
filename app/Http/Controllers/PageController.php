@@ -12,6 +12,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Redirect;
 use Illuminate\Support\Facades\DB;
 use App\User;
+use App\Info;
 use Auth;
 
 class PageController extends Controller
@@ -55,5 +56,14 @@ class PageController extends Controller
     public function startaproject(){
 
         return view('page.startaproject');
+    }
+    public function postenq(Request $request){
+        $data = $request->all();
+        $insert = Info::create($data);
+        if($insert){
+            return 'Good';
+        }else{
+            return back();
+        }
     }
 }

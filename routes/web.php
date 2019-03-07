@@ -19,6 +19,8 @@ Route::get('/portfolio', 'PageController@portfolio')->name('portfolio');
 Route::get('/contact', 'PageController@contact')->name('contact');
 Route::get('/startaproject', 'PageController@startaproject')->name('startaproject');
 
+Route::post('/postenq', 'PageController@postenq');
+
 Route::group(['prefix'=>'services'],function ()
 {
 	Route::get('/commercial', 'PageController@commercial')->name('commercial');

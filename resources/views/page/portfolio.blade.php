@@ -37,9 +37,10 @@
 
                     <div class="col-lg-5 ml-lg-auto">
                         <div class="pt-lg-lg pl-lg-5">
-                            <h3 class="heading h3">We are 100% involved</h3>
-                            <p class="lead text-gray my-4">With Boomerang you get components and examples, including tons of variables that will help you customize this theme with ease.</p>
-                            <a href="#" class="link font-weight-bold" data-link="1">Find out more</a>
+                            <h3 class="heading h3">HIGH SPEC HOME</h3>
+                            <p class="lead text-gray my-4">Our team recently completed the home of owners peters in Victorial Island.
+                            </p>
+                            <!-- <a href="#" class="link font-weight-bold" data-link="1">Find out more</a> -->
                         </div>
                     </div>
                 </div>
@@ -50,9 +51,10 @@
 
                     <div class="col-lg-5 order-lg-1">
                         <div class="pr-lg-5">
-                            <h3 class="heading h3">We are 100% involved</h3>
-                            <p class="lead text-gray my-4">With Boomerang you get components and examples, including tons of variables that will help you customize this theme with ease.</p>
-                            <a href="#" class="link font-weight-bold" data-link="1">Find out more</a>
+                            <h3 class="heading h3">DINING ROOM ON A BUDGET</h3>
+                            <p class="lead text-gray my-4">With a tight budget, our client, Seun, wanted a dinning room with 
+                            bespoke design. </p>
+                            <!-- <a href="#" class="link font-weight-bold" data-link="1">Find out more</a> -->
                         </div>
                     </div>
                 </div>
@@ -65,8 +67,8 @@
                                 <span class="mask mask--hover bg-gradient-primary opacity-4"></span>
                                 <div class="card-img-overlay d-flex">
                                     <div class="col pt-2">
-                                        <h4 class="h3 text-white text-capitalize mb-1">The pineapple's story</h4>
-                                        <h6 class="text-white">Identity &amp; Web Design</h6>
+                                        <h4 class="h3 text-white text-capitalize mb-1">Complete Home Renovation</h4>
+                                        <h6 class="text-white">Renovation</h6>
                                     </div>
                                 </div>
                             </div>
@@ -80,8 +82,8 @@
                                 <span class="mask mask--hover bg-gradient-primary opacity-4"></span>
                                 <div class="card-img-overlay d-flex">
                                     <div class="col pt-2">
-                                        <h4 class="h3 text-white text-capitalize mb-1">Beautiful colors from nature</h4>
-                                        <h6 class="text-white">Branding</h6>
+                                        <h4 class="h3 text-white text-capitalize mb-1">SittingRoom Renovation</h4>
+                                        <h6 class="text-white">Interior</h6>
                                     </div>
                                 </div>
                             </div>
@@ -97,8 +99,8 @@
                                 <span class="mask mask--hover bg-gradient-primary opacity-4"></span>
                                 <div class="card-img-overlay d-flex">
                                     <div class="col pt-2">
-                                        <h4 class="h3 text-white text-capitalize mb-1">Golden beauty</h4>
-                                        <h6 class="text-white">Identity &amp; Web Design</h6>
+                                        <h4 class="h3 text-white text-capitalize mb-1">BathRoom Renovation</h4>
+                                        <h6 class="text-white">Convienience</h6>
                                     </div>
                                 </div>
                             </div>
@@ -112,8 +114,8 @@
                                 <span class="mask mask--hover bg-gradient-primary opacity-4"></span>
                                 <div class="card-img-overlay d-flex">
                                     <div class="col pt-2">
-                                        <h4 class="h3 text-white text-capitalize mb-1">Living dangerously</h4>
-                                        <h6 class="text-white">Marketing</h6>
+                                        <h4 class="h3 text-white text-capitalize mb-1">BedRoom Renovation</h4>
+                                        <h6 class="text-white">Comfort</h6>
                                     </div>
                                 </div>
                             </div>

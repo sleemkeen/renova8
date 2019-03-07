@@ -80,7 +80,7 @@
                         <h3>150 Huges Avenue<br>Yaba Lagos, Nigeria</h3>
                         <p class="lead my-4">E: <a href="#">info@renova8.com</a>
                             <br>T: 09088998888</p>
-                        <p>We’re really proud of the quality work our team delivers. Browse this gallery to explore some of the jobs we’ve completed recently. We’re sure you’ll notice the great finishes and maybe even find a little inspiration for your own project.</p>
+                        <p>RENOVA8 is a registered renovations & design company, located in the heart of Yaba with a commitment to redefining the culture of property renovations and remodeling.</p>
                     </div>
                 </div>
             </div>

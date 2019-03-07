@@ -44,7 +44,7 @@
     <script src="{{asset('assets/vendor/in-view/dist/in-view.min.js')}}"></script>
     <!-- Page plugins -->
     <script src="{{asset('assets/vendor/highlight.js/lib/highlight.js')}}"></script>
-    <script src="https://getbootstrap.com/docs/4.3/examples/checkout/form-validation.js"></script></body>
+    <script src="{{asset('assets/js/form-validation.js')}}"></script></body>
 
 
 

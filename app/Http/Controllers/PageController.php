@@ -61,7 +61,7 @@ class PageController extends Controller
         $data = $request->all();
         $insert = Info::create($data);
         if($insert){
-            return 'Good';
+            return json_encode(['response' => 200]);
         }else{
             return back();
         }

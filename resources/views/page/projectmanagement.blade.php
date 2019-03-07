@@ -108,7 +108,7 @@
 
 			<!-- Modal body -->
 			<div class="modal-body">
-				 <form class="needs-validation" novalidate method="post" action="{{url('postenq')}}">
+				 <form class="needs-validation" novalidate method="post" id="addinfo">
 				<div class="row">
 					<div class="col-md-6 mb-3">
 						<label for="firstName">First Name*</label>

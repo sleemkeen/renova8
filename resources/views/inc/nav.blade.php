@@ -75,8 +75,37 @@
                         <li class="nav-item active">
                             <a class="nav-link" href="{{url('/')}}">Home</a>
                         </li>
-                        <li class="nav-item">
+                          <li class="nav-item dropdown dropdown-animate" data-toggle="hover">
                             <a class="nav-link" href="{{url('about')}}" role="button">About</a>
+                                <div class="dropdown-menu dropdown-menu-md dropdown-menu-arrow py-0">
+                                <div class="list-group">
+                                    <a href="{{url('services/commercial')}}" class="list-group-item list-group-item-action">
+                                        <div class="media d-flex align-items-center">
+                                            
+                                            <div class="media-body ml-3">
+                                                <h6 class="mb-1">Mission</h6>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <a href="{{url('services/residential')}}" class="list-group-item list-group-item-action">
+                                        <div class="media d-flex align-items-center">
+                                           
+                                            <div class="media-body ml-3">
+                                                <h6 class="mb-1">Vision</h6>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <a href="{{url('services/architecture')}}" class="list-group-item list-group-item-action">
+                                        <div class="media d-flex align-items-center">
+                                            
+                                            <div class="media-body ml-3">
+                                                <h6 class="mb-1">Our Strength</h6>
+                                            </div>
+                                        </div>
+                                    </a>
+                                 
+                                </div>
+                            </div>
                         </li>
                         <li class="nav-item dropdown dropdown-animate" data-toggle="hover">
                             <a class="nav-link" href="{{url('services')}}" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Services</a>

@@ -38,7 +38,7 @@
                                 <div class="card-body px-5 py-5">
                                     <div style="min-height: 250px;">
                                         <h2 class="h2 text-white font-weight-bold mb-4">Lagos</h2>
-                                        <h5 class="text-white mt-4 mb-2">E: info@renova8.com</h5>
+                                        <h5 class="text-white mt-4 mb-2">E: hello@renova8.ng</h5>
                                         <h5 class="text-white">T: 09099889999</h5>
                                     </div>
                                     <span class="text-white text-uppercase font-weight-bold">
@@ -78,7 +78,7 @@
 
                     <div class="col-lg-5 ml-lg-auto">
                         <h3>150 Huges Avenue<br>Yaba Lagos, Nigeria</h3>
-                        <p class="lead my-4">E: <a href="#">info@renova8.com</a>
+                        <p class="lead my-4">E: <a href="#">hello@renova8.ng</a>
                             <br>T: 09088998888</p>
                         <p>RENOVA8 is a registered renovations & design company, located in the heart of Yaba with a commitment to redefining the culture of property renovations and remodeling.</p>
                     </div>

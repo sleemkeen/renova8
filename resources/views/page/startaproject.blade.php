@@ -56,7 +56,7 @@
                         <img alt="Image placeholder" src="{{asset('assets/img/brand/002.png')}}" class="card-img-top">
                         <div class="card-body">
                             <h5 class="heading h5 mb-1">
-                                <span class="card-title">ARCHITECTURAL RENOVATION</span>
+                                <span class="card-title">ARCHITECTURAL DESIGNS & 3D</span>
                                 <small class="text-muted"></small>
                             </h5> 
                             <p class="card-text">Our range of capabilities allows us the freedom to provide diverse architectural solutions, to leverage innovative products and materials, and to include our clients’ visions to improve each project we touch.</p>
@@ -73,11 +73,11 @@
                             <img alt="Image placeholder" src="{{asset('assets/img/brand/007.png')}}" class="card-img-top">
                             <div class="card-body">
                                 <h5 class="heading h5 mb-1">
-                                    <span class="card-title">PROJECT MANAGEMENT & QUALITY ASSURANCE</span>
+                                    <span class="card-title">PROJECT MANAGEMENT</span>
                                     <small class="text-muted"></small>
                                 </h5> 
                                 <p class="card-text">Remodeling your home is an involved experience! There are a lot of important decisions you will need to make from the time you approve the initial drawings, to enjoying your finished project.</p>
-                                <a href="services/projectmanagement" class="btn btn-sm btn-dark">See Our Packages</a>
+                                <a href="services/projectmanagement" class="btn btn-sm btn-dark">Learn More</a>
                             </div>
                         </div>
                                 

@@ -10,9 +10,9 @@
                                     </div>
                                     <div class="icon-text">
                                         <h3 class="text-white h4">Address</h3>
-                                        <p class="text-white mb-0">Plot 12, hughes avenue sabo yaba</p>
+                                        <p class="text-white mb-0">Plot 1A, Hughes Avenue Yaba</p>
                                         <p class="text-white mb-0">07008989998</p>
-                                        <p class="text-white mb-0">info@renovate.com</p>
+                                        <p class="text-white mb-0">hello@renova8.ng</p>
 
                                     </div>
                                 </div>

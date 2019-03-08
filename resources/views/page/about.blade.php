@@ -87,7 +87,7 @@
         </div>
     </div>
 </section>
-<section>
+<!-- <section>
 
     <div class="mb-md text-center">
         <div class="container">
@@ -103,7 +103,7 @@ techniques backed by technology are our hallmark, evident in our various underta
            
         </div>
     
-</section>
+</section> -->
 <section class="position-relative pb-lg-lg pt-lg-lg bg-secondary">
     <div class="bg-img-holder top-0 left-0 col-lg-6 zindex-100" data-bg-size="cover" style="background-image: url(&quot;../assets/img/prv/team-6-800x800.jpg&quot;); background-position: initial; background-size: cover; opacity: 1; height: 100%;">
         <img alt="Image placeholder" src="{{asset('assets/img/brand/carpenter.png')}}">

@@ -28,3 +28,10 @@ Route::group(['prefix'=>'services'],function ()
 	Route::get('/architecture', 'PageController@architecture')->name('architecture');
 	Route::get('/projectmanagement', 'PageController@projectmanagement')->name('projectmanagement');
 });
+
+Route::group(['prefix'=>'dashboard'],function ()
+{
+	Route::get('/', 'AdminController@index')->name('Dashboard');
+	Route::get('/login', 'AdminController@login')->name('Login');
+
+});

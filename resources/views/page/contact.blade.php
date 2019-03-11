@@ -41,10 +41,10 @@
                                         <h5 class="text-white mt-4 mb-2">E: hello@renova8.ng</h5>
                                         <h5 class="text-white">T: 09099889999</h5>
                                     </div>
-                                    <span class="text-white text-uppercase font-weight-bold">
+                                  <!--   <span class="text-white text-uppercase font-weight-bold">
                                 See on map
                                 <i class="far fa-angle-right ml-2"></i>
-                            </span>
+                            </span> -->
                                 </div>
                             </a>
                         </div>
@@ -77,7 +77,7 @@
                     </div>
 
                     <div class="col-lg-5 ml-lg-auto">
-                        <h3>150 Huges Avenue<br>Yaba Lagos, Nigeria</h3>
+                        <h3>1A Hughes Avenue<br>Yaba Lagos</h3>
                         <p class="lead my-4">E: <a href="#">hello@renova8.ng</a>
                             <br>T: 09088998888</p>
                         <p>RENOVA8 is a registered renovations & design company, located in the heart of Yaba with a commitment to redefining the culture of property renovations and remodeling.</p>

@@ -14,22 +14,22 @@
                 <div class="col-lg-4 col-6 col-sm-4 ml-lg-auto mb-5 mb-lg-0">
                     <h6 class="heading mb-3">Services</h6>
                     <ul class="list-unstyled">
-                        <li><a href="#">Commercial Renovation</a>
+                        <li><a href="{{url('services/commercial')}}">Commercial Renovation</a>
                         </li>
-                        <li><a href="#">Residential Renovation</a>
+                        <li><a href="{{url('services/residential')}}">Residential Renovation</a>
                         </li>
-                        <li><a href="#">Architectural Designs</a>
+                        <li><a href="{{url('services/architecture')}}">Architectural Designs</a>
                         </li>
-                        <li><a href="#">Project Management & Quality Assurance</a>
+                        <li><a href="{{url('services/projectmanagement')}}">Project Management</a>
                         </li>
                     </ul>
                 </div>
                 <div class="col-lg-2 col-6 col-sm-4 mb-5 mb-lg-0">
                     <h6 class="heading mb-3">About</h6>
                     <ul class="list-unstyled text-small">
-                        <li><a href="#">About</a>
+                        <li><a href="{{url('about')}}">About</a>
                         </li>
-                        <li><a href="#">Portfolio</a>
+                        <li><a href="{{url('portfolio')}}">Portfolio</a>
                         </li>
                     </ul>
                 </div>

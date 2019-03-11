@@ -4,8 +4,6 @@ use Illuminate\Foundation\Bus\DispatchesJobs;
 use Illuminate\Routing\Controller as BaseController;
 use Illuminate\Foundation\Validation\ValidatesRequests;
 use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
-use Spatie\Permission\Models\Role;
-use Spatie\Permission\Models\Permission;
 use App\Http\Helper\Sendmail;
 use Illuminate\Support\Facades\Session;
 use Illuminate\Http\Request;
@@ -60,6 +58,9 @@ class PageController extends Controller
     public function postenq(Request $request){
         $data = $request->all();
         $insert = Info::create($data);
+        $sendemail = new Sendmail();
+        $msgs = "Please login to your dashboard to follow up with customer";
+        $sender = $sendemail->sendmail('akhmadharuna@gmail.com','hello@renova8.com', $data['fname'],$msgs,'hello@renova8.com', 'NEW CUSTOMER');
         if($insert){
             return json_encode(['response' => 200]);
         }else{
